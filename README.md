@@ -23,9 +23,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/anaconda.svg" alt="anaconda" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/minecraft.svg" alt="minecraft" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/240/anaconda--v2.png" alt="anaconda" width="40" height="40"/> </a> 
+<!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/minecraft.svg" alt="minecraft" width="40" height="40"/> </a>  -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/steam.svg" alt="steam" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/zotero.svg" alt="zotero" width="40" height="40"/> </a> 
+<!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/zotero.svg" alt="zotero" width="40" height="40"/> </a>  -->
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/stickers/100/minecraft-sword.png" alt="Minecraft" width="40" height="40"/> </a>
+<!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/bilibili.png alt="Bilibili" width="40" height="40"/> </a> -->
 </p>
