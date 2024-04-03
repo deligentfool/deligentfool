@@ -1,6 +1,6 @@
 <p align="center">
   <img width="140" src="https://avatars.githubusercontent.com/u/31153127?v=4" />
-  <h2 align="center">Hi 👋, I'm Zhiwei Xu</h2>
+  <h2 align="center">Hi 👋, I'm XU Zhiwei</h2>
   <p align="center">A Ph.D Candidate from Chinese Academy of Sciences</p>
 </p>
 
