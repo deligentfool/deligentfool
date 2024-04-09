@@ -31,3 +31,8 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/stickers/100/minecraft-sword.png" alt="Minecraft" width="40" height="40"/> </a>
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/bilibili.png alt="Bilibili" width="40" height="40"/> </a> -->
 </p>
+
+<p align="right">
+<a href="xuleek.tech" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/stars/deligentfool"/></a>    <a href="xuleek.tech" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/deligentfool"/></a>    <a href="xuleek.tech" target="_blank" rel="noreferrer"> <img src="https://badges.strrl.dev/repos/deligentfool"/></a>    <a href="xuleek.tech" target="_blank" rel="noreferrer"> <img src="https://badges.strrl.dev/visits/deligentfool/deligentfool"/></a>
+</p>
+
