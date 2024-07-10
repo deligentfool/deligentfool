@@ -4,7 +4,7 @@
   <p align="center">A Ph.D Candidate from Chinese Academy of Sciences</p>
 </p>
 
-- 🤝 I am looking for **cooperation opportunities**
+- 🤝 I am looking for **cooperation opportunities**. If you are interested with my experience or research, please feel free to contact me
 
 - 👨‍💻 All of my projects are available at [https://xuleek.tech/](https://xuleek.tech/)
 
