@@ -4,7 +4,7 @@
   <p align="center">A Ph.D Candidate from Chinese Academy of Sciences</p>
 </p>
 
-- 🤝 I’m looking for **a job related to Reinforcement Learning or Deep Learning**
+- 🤝 I am looking for **cooperation opportunities**
 
 - 👨‍💻 All of my projects are available at [https://xuleek.tech/](https://xuleek.tech/)
 
@@ -26,7 +26,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/240/anaconda--v2.png" alt="anaconda" width="40" height="40"/> </a> 
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/minecraft.svg" alt="minecraft" width="40" height="40"/> </a>  -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/steam.svg" alt="steam" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/> </a> 
+<!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/> </a>  -->
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/zotero.svg" alt="zotero" width="40" height="40"/> </a>  -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/stickers/100/minecraft-sword.png" alt="Minecraft" width="40" height="40"/> </a>
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/bilibili.png alt="Bilibili" width="40" height="40"/> </a> -->
